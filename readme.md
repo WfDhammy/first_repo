@@ -2,6 +2,7 @@
 
 this is a version control system that manages all your files in a particular project folder/directory
 
+
 ## BEFORE GIT
 
 1. Install **Git**
